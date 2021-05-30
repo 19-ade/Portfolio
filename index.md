@@ -1,4 +1,5 @@
 # Anwesan De
+[Linkedin](https://www.linkedin.com/in/anwesan-de-66913a1ab) [Github](https://github.com/19-ade)
 
 ## Education
 * Bachelor of Engineering - BE, *Electronics and Instrumentation*, Bits Pilani, Hyderabad Campus (2019 - 2023)
