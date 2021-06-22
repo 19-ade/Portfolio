@@ -1,8 +1,3 @@
-![1621235831805](https://user-images.githubusercontent.com/64825911/122981438-601e3380-d3b7-11eb-9e51-200d5630b7a5.jpeg)
-
-
-
-
 # Anwesan De
 
 [Linkedin](https://www.linkedin.com/in/anwesan-de-66913a1ab) [Github](https://github.com/19-ade)
