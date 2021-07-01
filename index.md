@@ -22,7 +22,12 @@ Using standard Gym environments I have used various algorithms like Q table and 
 * MountainCar-v0 and MountainCarContinuous-v0– The task was to carry the vehicle up a mountain in an under-powered car. The Agent had to learn to move the car back and forth to develop momentum.
 * CartPole-v0 – The agent had to learn to make minute changes in position in the cart which in turn balances a rod and keeps it upright. 
 
-## [Project 3](https://github.com/19-ade/tit-Bits): Minute Python projects  
+## [Project 3](https://github.com/19-ade/Mass-mailing-encrypted-data): Mass mailing encrypted PDF
+
+This script uses a tkinter gui . It encrypts a pdf with the date of birth of the reciever(by default) and sends it to the recievers. A sqlite3 database stores the 
+information of the users(name, DOB, Email ) . It is completely customizable. 
+
+## [Project 4](https://github.com/19-ade/tit-Bits): Minute Python projects  
 
 To exercise my knowledge and my desire to learn I implemented the following python scripts in my day-to-day functioning:
 
